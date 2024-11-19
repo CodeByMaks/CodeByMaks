@@ -53,14 +53,6 @@ I am a programmer who wants to learn full stack, cybersecurity and IT <img src="
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodeByMaks&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
