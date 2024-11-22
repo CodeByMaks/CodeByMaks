@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-    <img src="https://komarev.com/ghpvc/?username=CodeByMaks&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.github.com/Amsurur" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/CodeByMaks?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+    <img src="https://komarev.com/ghpvc/?username=CodeByMaks&style=flat-square&color=blue" alt="" height="27px"/>
   <h1>
   Hello everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
