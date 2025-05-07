@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a programmer who wants to learn full stack, cybersecurity and IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Tajikistan.
+I am a programmer who wants to learn full stack, cybersecurity and IT Infrastructure <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Tajikistan. I'm an inquisitive individual with a strong passion for learning and a drive to turn ideas into reality. I embrace a wide variety of technologies, always pushing myself to achieve results—whether I’m mastering a new tool or encountering it for the first time. Outside of programming, I have a deep passion for sports, travel, and music. I love exploring new musical instruments and have a genuine appreciation for music across all genres. If you’re curious to know more, let's connect and chat!
 
 - :telescope: I observe all the changes in my achievements and try to gain experience.
 
@@ -42,17 +42,34 @@ I am a programmer who wants to learn full stack, cybersecurity and IT <img src="
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> 
+  <img src="https://www.kali.org/images/favicon.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="Shadcn/UI" alt="Shadcn/UI" width="40" height="40"/>
 </div>
 
 ---
+
+### 📚 Languages I Want to Learn :
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" title="Assembly" alt="Assembly" width="40" height="40"/>
+</div>
 
 <picture>
   <source
