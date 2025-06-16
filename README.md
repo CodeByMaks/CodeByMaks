@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/@community_prog">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/maks_donfort">
+  <a href="https://t.me/muhsinbehbudov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
