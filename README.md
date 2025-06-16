@@ -35,7 +35,7 @@ I am a programmer who wants to learn full stack, cybersecurity and IT Infrastruc
 
 - :zap: In my free time, I study and solve problems in Tryhackme.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maks-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/maks_donfort)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maks-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/muhsinbehbudov)
 
   ---
 
