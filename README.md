@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a programmer who wants to learn full stack, cybersecurity and IT Infrastructure <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Tajikistan. I'm an inquisitive individual with a strong passion for learning and a drive to turn ideas into reality. I embrace a wide variety of technologies, always pushing myself to achieve results—whether I’m mastering a new tool or encountering it for the first time. Outside of programming, I have a deep passion for sports, travel, and music. I love exploring new musical instruments and have a genuine appreciation for music across all genres. If you’re curious to know more, let's connect and chat!
+Hello! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Tajikistan. I'm an inquisitive individual with a strong passion for learning and a drive to turn ideas into reality. I embrace a wide variety of technologies, always pushing myself to achieve results—whether I’m mastering a new tool or encountering it for the first time. Gradually, I want to learn the areas of full stack, cybersecurity and IT Infrastructure. Outside of programming, I have a deep passion for sports, travel, and music. I love exploring new musical instruments and have a genuine appreciation for music across all genres. If you’re curious to know more, let's connect and chat!
 
 - :telescope: I observe all the changes in my achievements and try to gain experience.
 
@@ -35,7 +35,7 @@ I am a programmer who wants to learn full stack, cybersecurity and IT Infrastruc
 
 - :zap: In my free time, I study and solve problems in Tryhackme.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maks-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/muhsinbehbudov)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maks-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/muhsin_behbudov)
 
   ---
 
